@@ -7,3 +7,4 @@ so what did i learn?
 - elements
 - links
 - images
+- commit messages
