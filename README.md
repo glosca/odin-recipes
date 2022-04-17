@@ -8,3 +8,5 @@ so what did i learn?
 - links
 - images
 - commit messages
+
+now i'll be adding CSS
